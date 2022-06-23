@@ -45,6 +45,9 @@ Por Padrao o serviço será iniciado na porta :
 
 -  [Angular](https://angular.io/)
 -  [TypeScript](https://www.typescriptlang.org/)
+-  [JsonServer](https://www.npmjs.com/package/json-server)
+-  [BootStrap](https://getbootstrap.com/)
+-  
 
 
 ## 📝 Licença
