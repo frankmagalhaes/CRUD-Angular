@@ -1,0 +1,70 @@
+{
+  "contacts": [
+    {
+      "id": "D6BNdWnHI",
+      "name": "Daniel Frey",
+      "company": "YouTube",
+      "email": "danielfrey@gmail.com",
+      "title": "Youtuber",
+      "mobile": "9876546787",
+      "photo": "https://cdn-icons-png.flaticon.com/512/168/168733.png",
+      "groupId": "3"
+    },
+    {
+      "id": "TVobxeKbI",
+      "name": "Alexia Him",
+      "company": "HCL Technologies",
+      "email": "alexiahim@gmail.com",
+      "title": "freelancer",
+      "mobile": "8880009991",
+      "photo": "https://cdn-icons-png.flaticon.com/512/147/147141.png",
+      "groupId": "2"
+    },
+    {
+      "id": "UyEDV5Yds",
+      "name": "Donatella Vier",
+      "company": "Service",
+      "email": "donavier@gmail.com",
+      "title": "Sociality",
+      "mobile": "9876546787",
+      "photo": "https://cdn-icons-png.flaticon.com/512/147/147136.png",
+      "groupId": "4"
+    },
+    {
+      "name": "Renan",
+      "photo": "https://cdn-icons-png.flaticon.com/512/168/168724.png",
+      "mobile": "9090909090",
+      "email": "renan@gmail.com",
+      "company": "HCL Technologies",
+      "title": "Software Engineer",
+      "groupId": "1",
+      "id": "kLt-bJF"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Colleague"
+    },
+    {
+      "id": "2",
+      "name": "Friend"
+    },
+    {
+      "id": "3",
+      "name": "Family"
+    },
+    {
+      "id": "4",
+      "name": "Service"
+    },
+    {
+      "id": "5",
+      "name": "Community"
+    },
+    {
+      "id": "6",
+      "name": "Social"
+    }
+  ]
+}
